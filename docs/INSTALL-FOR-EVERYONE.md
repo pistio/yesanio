@@ -110,7 +110,7 @@ If you have an older version of Windows (8, 7, or earlier), Docker Desktop won't
 
 ### Step 2 — Download Yesanio
 
-1. In your web browser, go to: **https://github.com/jc-universe87/yesanio/releases/latest**
+1. In your web browser, go to: **https://github.com/pistio/yesanio/releases/latest**
 2. Scroll down on that page to find a section called **Assets**.
 3. Click on the file ending in `.zip` (it'll be named something like `yesanio-v2.5.21.zip`). It downloads to your Downloads folder.
 4. Open your Downloads folder. Right-click the zip file and choose **Extract All...**. Choose where to extract — leaving the default (a folder next to the zip) is fine. Click Extract.
@@ -196,7 +196,7 @@ Both Apple Silicon Macs (M1/M2/M3/M4) and Intel Macs work fine. On Apple Silicon
 
 ### Step 2 — Download Yesanio
 
-1. In Safari, go to: **https://github.com/jc-universe87/yesanio/releases/latest**
+1. In Safari, go to: **https://github.com/pistio/yesanio/releases/latest**
 2. Scroll to the **Assets** section and click the `.zip` file.
 3. The zip downloads to your Downloads folder. **Double-click it** — macOS automatically extracts it into a folder called `yesanio` next to the zip.
 
@@ -264,9 +264,9 @@ For other distributions, the official Docker install instructions at https://doc
 
 ```
 cd ~
-# Visit https://github.com/jc-universe87/yesanio/releases/latest in your browser to find the
+# Visit https://github.com/pistio/yesanio/releases/latest in your browser to find the
 # current version's filename, then download it. Example for v2.5.14:
-wget https://github.com/jc-universe87/yesanio/releases/download/v2.5.14/yesanio-v2.5.14.zip
+wget https://github.com/pistio/yesanio/releases/download/v2.5.14/yesanio-v2.5.14.zip
 unzip yesanio-v2.5.14.zip
 cd yesanio
 ```
@@ -344,16 +344,16 @@ In the Linux terminal:
 
 ```
 cd ~
-# Visit https://github.com/jc-universe87/yesanio/releases/latest in your browser to find the
+# Visit https://github.com/pistio/yesanio/releases/latest in your browser to find the
 # current version's filename, then download it. Example:
-wget https://github.com/jc-universe87/yesanio/releases/download/v2.5.19/yesanio-v2.5.19.zip
+wget https://github.com/pistio/yesanio/releases/download/v2.5.19/yesanio-v2.5.19.zip
 unzip yesanio-v2.5.19.zip
 cd yesanio
 ```
 
 > **If you've tried installing Yesanio before and have a previous `yesanio` folder in your home directory, remove it first:** `sudo rm -r ~/yesanio`. Then re-run the commands above.
 
-> **Alternative — install directly from GitHub using git:** if you have `git` available (it's installed by default on Crostini), you can skip the zip entirely: `git clone https://github.com/jc-universe87/yesanio.git && cd yesanio`. This creates the `yesanio` folder directly in your home directory (not `yesanio/yesanio` — just `yesanio`).
+> **Alternative — install directly from GitHub using git:** if you have `git` available (it's installed by default on Crostini), you can skip the zip entirely: `git clone https://github.com/pistio/yesanio.git && cd yesanio`. This creates the `yesanio` folder directly in your home directory (not `yesanio/yesanio` — just `yesanio`).
 
 ### Step 4 — Start Yesanio
 
@@ -461,7 +461,7 @@ When a new version of Yesanio comes out, you'll want to update — for new featu
 
 The four-step update flow:
 
-1. **Download the new version's zip** from the same place as before: https://github.com/jc-universe87/yesanio/releases/latest
+1. **Download the new version's zip** from the same place as before: https://github.com/pistio/yesanio/releases/latest
 
 2. **Stop the current Yesanio.** In a terminal in your existing yesanio folder:
    ```
@@ -520,7 +520,7 @@ If you really did lose data and you have a backup file from `backup.sh`, restori
 
 ### Anything not on this list
 
-Open https://github.com/jc-universe87/yesanio/issues and click **New issue**. In the issue, please include:
+Open https://github.com/pistio/yesanio/issues and click **New issue**. In the issue, please include:
 
 1. What you were trying to do
 2. What you typed

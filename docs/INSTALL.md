@@ -10,10 +10,10 @@
 
 ## Quick install
 
-Download the latest release zip from [Releases](https://github.com/jc-universe87/yesanio/releases/latest), or clone the repo:
+Download the latest release zip from [Releases](https://github.com/pistio/yesanio/releases/latest), or clone the repo:
 
 ```bash
-git clone https://github.com/jc-universe87/yesanio.git
+git clone https://github.com/pistio/yesanio.git
 cd yesanio
 docker compose up -d
 ```

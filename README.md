@@ -116,7 +116,7 @@ The quick version is below for those who just want the commands.
 ### First-time setup
 
 ```bash
-git clone https://github.com/jc-universe87/yesanio.git
+git clone https://github.com/pistio/yesanio.git
 cd yesanio
 docker compose up -d
 ```
@@ -203,7 +203,7 @@ Yesanio is part of **Pistio** — a small collection of self-hosted tools built 
 
 If Yesanio is useful to your household, you can support its continued development:
 
-- [Sponsor on GitHub](https://github.com/sponsors/jc-universe87) — one-off or monthly, lowest fees
+- [Sponsor on GitHub](https://github.com/sponsors/pistio) — one-off or monthly, lowest fees
 - [Tip via Ko-fi](https://ko-fi.com/pistio) — quick one-off tip
 
 Yesanio is MIT-licensed, self-hostable, and free forever. Sponsorship supports the ongoing maintenance of the code itself, which benefits everyone running Yesanio.
