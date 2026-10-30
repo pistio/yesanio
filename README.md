@@ -201,10 +201,12 @@ For larger changes, please open an issue first to discuss direction. Yesanio has
 
 Yesanio is part of **Pistio** — a small collection of self-hosted tools built for households, churches, and communities.
 
-If Yesanio is useful to your household, you can support its continued development:
+If Yesanio is useful to your household, you can support its continued development. Contributions are voluntary and do not change access to the free software:
 
-- [Sponsor on GitHub](https://github.com/sponsors/jc-universe87) — one-off or monthly, lowest fees
-- [Tip via Ko-fi](https://ko-fi.com/pistio) — quick one-off tip
+<p>
+  <a href="https://github.com/sponsors/pistio"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support-0E2D5B?logo=githubsponsors&logoColor=white" alt="Support via GitHub Sponsors"></a>
+  <a href="https://ko-fi.com/pistio"><img src="https://img.shields.io/badge/Ko--fi-Buy%20a%20coffee-0E2D5B?logo=kofi&logoColor=white" alt="Support via Ko-fi"></a>
+</p>
 
 Yesanio is MIT-licensed, self-hostable, and free forever. Sponsorship supports the ongoing maintenance of the code itself, which benefits everyone running Yesanio.
 
